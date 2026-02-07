@@ -36,8 +36,11 @@ The model uses the following chemical properties of wine:
 
 ## 📂 File Structure
 ├── Main.ipynb
+
 ├── model.py
+
 ├── WineQuality.csv
+
 └── predictions.csv
 
 
